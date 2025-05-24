@@ -17,4 +17,7 @@ redis==5.0.8
 redisvl==0.3.3
 python-dotenv==1.0.1
 langchain-redis==0.1.0
-jupyter==1.0.0
+
+
+langchain_chroma
+chromadb
